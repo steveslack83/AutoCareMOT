@@ -1,9 +1,3 @@
-Here you go, Steve — a clean, polished **README.md** update with badges and a screenshots section, written in proper Markdown and ready to paste straight into your repo. It keeps things professional and lightweight, exactly what GitHub expects.
-
-You can drop this directly under your existing content or replace the whole file if you prefer.
-
----
-
 # **AutoCare MOT**
 
 AutoCare MOT is a simple, reliable tool designed to help vehicle owners stay on top of essential legal and safety requirements. The app provides clear reminders and live information about each vehicle a user owns, ensuring nothing important is missed.
